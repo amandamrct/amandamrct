@@ -1,4 +1,4 @@
-Oi! Me chamo Amanda Maricato, sou estudante de Ciência da Computação! 
+Oi! Me chamo Amanda Maricato, sou estudante de Ciência da Computação! Meu perfil é dedicado para trabalhos da faculdade e alguns projetos pessoais. Fique a vontade para entrar em contato!
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">
   <!-- Linguagens -->
