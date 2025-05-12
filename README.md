@@ -8,3 +8,6 @@ ________________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
+
+## 🏆 GitHub Achievements  
+![Achievements](https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=onedark)
