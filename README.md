@@ -10,4 +10,4 @@ ________________________________________________________________________________
 </p>
 
 ## 🏆 GitHub Achievements  
-![Achievements](https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=onedark)
+![Achievements](https://github-profile-trophy.vercel.app/?username=amandamrct&theme=onedark)
