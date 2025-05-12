@@ -4,5 +4,4 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) |
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) |
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) | 
-[![Ciência da Computação]([![Ciência da Computação](https://img.shields.io/badge/Estudante_de_Ciência_da_Computação-FFB6C1?style=for-the-badge&logo=code&logoColor=white&labelColor=DB7093&color=FFD1DC
-(https://github.com/amandamrct)
+[![Ciência da Computação](https://img.shields.io/badge/Estudante_de_Ciência_da_Computação-FFB6C1?style=for-the-badge&logo=code&logoColor=white&labelColor=DB7093&color=FFD1DC)](https://github.com/amandamrct)
